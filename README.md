@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me
 I'm a **DevOps Engineer** passionate about **automation**, **cloud infrastructure**, and **continuous integration**.  
-I work at the intersection of development and operations — ensuring **efficient pipelines**, **scalable environments**, and **reliable deployments**.
+I work at the intersection of development and operations, ensuring **efficient pipelines**, **scalable environments**, and **reliable deployments**.
 
 - 💡 Currently focused on **Kubernetes**, **AWS**, **Terraform**, and **CI/CD**
 - 🐳 Big fan of containers and DevOps best practices
@@ -51,15 +51,6 @@ I work at the intersection of development and operations — ensuring **efficien
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="50" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="50" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="50" width="50" />
-
-</div>
-
----
-
-### 📊 Most Used Languages
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abraaorochapb&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
