@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there, I'm Abraão Rocha de Paula</h1>
 
 <p align="center">
-  🚀 DevOps Engineer | Cloud & Automation Enthusiast | Software Developer
+  DevOps Engineer & Msc. Computer Engineering
 </p>
 
 <p align="center">
